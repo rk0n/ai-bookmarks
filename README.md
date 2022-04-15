@@ -1,4 +1,5 @@
 # ai-bookmarks
+A collection of bookmarks related to artificial intelligence
 
 ## Development
 
