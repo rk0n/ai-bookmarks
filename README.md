@@ -9,6 +9,8 @@ A collection of bookmarks related to artificial intelligence
 
 [Machine Learning Mastery](https://machinelearningmastery.com)
 
+[KD Nuggets](https://www.kdnuggets.com)
+
 ## News
 
 [Berkeley Artifical Intelligence Research Blog](https://bair.berkeley.edu/blog)
