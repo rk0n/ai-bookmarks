@@ -1,6 +1,9 @@
 # ai-bookmarks
 A collection of bookmarks related to artificial intelligence
 
+## Visualize
+[Data + Design - A simple introduction to preparing and visualizing information](https://trinachi.github.io/data-design-builds/titlepage01.html)
+
 ## Development
 
 [paperswithcode.com](https://paperswithcode.com)
