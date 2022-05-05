@@ -5,6 +5,7 @@ A collection of bookmarks related to artificial intelligence
 [Data + Design - A simple introduction to preparing and visualizing information](https://trinachi.github.io/data-design-builds/titlepage01.html)
 
 ## Development
+[modelzoo.co](https://modelzoo.co)
 
 [paperswithcode.com](https://paperswithcode.com)
 
